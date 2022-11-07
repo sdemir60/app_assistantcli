@@ -1,0 +1,22 @@
+{
+  "name": "assistantcli",
+  "description": "Pratik İşlem Asistanım",
+  "version": "1.0.0",
+  "author": "Sinan Demir",
+  "license": "ISC",
+  "homepage": "https://github.com/sdemir60/app_assistantcli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdemir60/app_assistantcli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdemir60/app_assistantcli/issues"
+  },
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "asc": "bin/asc.js"
+  }
+}
