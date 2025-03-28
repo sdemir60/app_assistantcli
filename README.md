@@ -1,3 +1,3 @@
 # app_assistantcli
 
-Komutlar ile hızlı işlem uygulaması.
+An application for quick operations using commands.
